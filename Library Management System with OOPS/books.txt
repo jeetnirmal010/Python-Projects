@@ -1,0 +1,20 @@
+B101,Python Basics,John Smith,Programming,TechPress,499.0,5,5
+B102,Java Complete,James Gosling,Programming,SunBooks,699.0,4,4
+B103,C Programming,Dennis Ritchie,Programming,Pearson,450.0,6,6
+B104,Data Structures,Mark Allen,Programming,McGrawHill,550.0,5,5
+B105,Algorithms,Thomas Cormen,Programming,MIT Press,899.0,3,3
+B106,Machine Learning,Andrew Ng,AI,DeepBooks,799.0,4,4
+B107,Artificial Intelligence,Stuart Russell,AI,Pearson,950.0,3,3
+B108,Database Systems,Elmasri,Database,Pearson,850.0,5,5
+B109,Operating Systems,Galvin,Systems,Wiley,750.0,4,4
+B110,Computer Networks,Tanenbaum,Networking,Pearson,820.0,4,4
+B111,Digital Logic,Morris Mano,Electronics,Pearson,620.0,5,5
+B112,Discrete Mathematics,Kenneth Rosen,Maths,McGrawHill,680.0,5,5
+B113,Web Development,David Flanagan,Programming,OReilly,540.0,4,4
+B114,HTML & CSS,Jon Duckett,Web,Pearson,430.0,6,6
+B115,JavaScript Guide,Brendan Eich,Web,OReilly,580.0,5,5
+B116,Linux Essentials,William Shotts,Systems,TechPress,500.0,4,4
+B117,Cyber Security,Charles Brooks,Security,Wiley,770.0,4,4
+B118,Cloud Computing,Rajkumar Buyya,Cloud,Pearson,890.0,3,3
+B119,Computer Graphics,Foley,Graphics,Pearson,760.0,4,4
+B120,Software Engineering,Ian Sommerville,Engineering,Pearson,880.0,5,5
