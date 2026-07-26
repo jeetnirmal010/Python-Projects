@@ -1,0 +1,6 @@
+1206063309571,Aman Sharma,24,Male,9876543210,aman@gmail.com,Delhi,Savings,201000.0,2026-07-26,ACTIVE
+1206005686485,Priya Verma,29,Female,9876543211,priya@gmail.com,Mumbai,Current,101000.0,2026-07-26,ACTIVE
+1206035461958,Rohit Singh,35,Male,9876543212,rohit@gmail.com,Jaipur,Savings,1000.0,2026-07-26,ACTIVE
+1206055279916,Neha Gupta,27,Female,9876543213,neha@gmail.com,Lucknow,Savings,1000.0,2026-07-26,ACTIVE
+1206046538892,Arjun Mehta,31,Male,9876543214,arjun@gmail.com,Pune,Current,1000.0,2026-07-26,ACTIVE
+1206005541165,Simran Kaur,26,Female,9876543215,simran@gmail.com,Chandigarh,Savings,101000.0,2026-07-26,ACTIVE
