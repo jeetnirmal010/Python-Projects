@@ -1,0 +1,72 @@
+[
+    {
+        "roll": "10",
+        "name": "AMANI",
+        "age": 18,
+        "course": "BCA",
+        "marks": 85
+    },
+    {
+        "roll": "11",
+        "name": "ROHIT",
+        "age": 19,
+        "course": "BBA",
+        "marks": 78
+    },
+    {
+        "roll": "12",
+        "name": "KARAN",
+        "age": 20,
+        "course": "MCA",
+        "marks": 91
+    },
+    {
+        "roll": "13",
+        "name": "DEEPA",
+        "age": 21,
+        "course": "MBA",
+        "marks": 88
+    },
+    {
+        "roll": "15",
+        "name": "ARJUN",
+        "age": 19,
+        "course": "BBA",
+        "marks": 82
+    },
+    {
+        "roll": "16",
+        "name": "NEHA",
+        "age": 20,
+        "course": "MCA",
+        "marks": 95
+    },
+    {
+        "roll": "17",
+        "name": "RAHUL",
+        "age": 18,
+        "course": "BCA",
+        "marks": 67
+    },
+    {
+        "roll": "18",
+        "name": "PRIYA",
+        "age": 21,
+        "course": "MBA",
+        "marks": 89
+    },
+    {
+        "roll": "19",
+        "name": "MOHIT",
+        "age": 22,
+        "course": "BBA",
+        "marks": 76
+    },
+    {
+        "roll": "20",
+        "name": "KAVYA",
+        "age": 20,
+        "course": "BCA",
+        "marks": 93
+    }
+]

@@ -66,13 +66,9 @@ def update(account_list,accnum):
         print("No Account Found!......")
         return False
 
-def delete(account_list,accnum):
-    account = search(account_list,accnum)
-    if account:
+def delete(account_list,account):
         account.display()
         print("Account Closed Successfully!......")
         account.status="CLOSED"
         account._nullBalance()
         return True
-    else:
-        return False
