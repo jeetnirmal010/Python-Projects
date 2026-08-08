@@ -1,42 +1,202 @@
 # 🐍 Python Projects Portfolio
 
-Welcome to my Python learning journey! This repository contains beginner-friendly Python projects that I built while learning programming and problem-solving.
+Welcome to my Python development portfolio.
 
-## 📂 Projects
-
-| Project                  | Description                                                                                       |
-| ------------------------ | ------------------------------------------------------------------------------------------------- |
-| 🎮 Guess the Number Game | A game where the computer generates a random number and the player tries to guess it.             |
-| 🧮 Basic Calculator      | Performs basic arithmetic operations such as addition, subtraction, multiplication, and division. |
-| 🧮 Advanced Calculator   | A menu-driven calculator with continuous operation and division-by-zero handling.                 |
-| 📊 Grade Calculator      | Calculates and displays student grades based on their scores.                                     |
-| 📝 Notes App             | Saves and reads notes using text files.                                                           |
-| ✅ File-Based To-Do App   | Add and view tasks with persistent storage using a text file.                                    |
-
-## 🛠️ Skills Practiced
-
-* Python Basics
-* Variables
-* User Input
-* Conditional Statements
-* Loops
-* Functions
-* Lists
-* Dictionaries
-* File Handling
-* Random Module
-* Git & GitHub
-
-## 🎯 Learning Goal
-
-I'm continuously improving my Python skills by building practical projects and expanding my portfolio. My goal is to become a professional Python developer.
-
-## 👨‍💻 Author
-
-**Nirmaljeet Singh**
-
-GitHub: https://github.com/jeetnirmal010
+This repository documents my journey from Python fundamentals to building
+real-world applications using Python, OOP, SQLite, Flask, HTML, CSS,
+JavaScript, and Git/GitHub.
 
 ---
 
-⭐ Thank you for visiting my repository!
+## 🚀 Featured Project
+
+### 💰 Expense Tracker — Flask + SQLite
+
+My main portfolio project.
+
+A full-stack expense management web application built with Flask and SQLite.
+
+**Features:**
+
+- Add, edit, view and delete expenses
+- Search expenses
+- Filter by amount
+- Filter by date
+- Spending by category
+- Monthly spending analysis
+- Interactive charts
+- CSV export
+- Form validation
+- Responsive interface
+- SQLite database
+
+**Technologies:**
+
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript` `Chart.js`
+
+📁 Project:
+
+`Final Project/`
+
+---
+
+# 📚 Other Projects
+
+## 🏦 Banking Management System
+
+A Python-based banking application demonstrating object-oriented
+programming and account management.
+
+**Concepts:**
+
+- OOP
+- Classes and objects
+- Methods
+- File handling
+- Data management
+
+---
+
+## 🎓 Student Management System
+
+A student management application using Python and SQLite.
+
+**Features:**
+
+- Add students
+- View students
+- Update students
+- Delete students
+- SQLite database operations
+
+**Technologies:**
+
+`Python` `SQLite`
+
+---
+
+## 👨‍💼 Employee Management System
+
+A Python management application for storing and managing employee data.
+
+**Concepts:**
+
+- CRUD operations
+- Python
+- Database/file handling
+- Object-oriented programming
+
+---
+
+## 📚 Library Management System
+
+A Python-based library management application.
+
+**Concepts:**
+
+- OOP
+- Classes and objects
+- CRUD operations
+- File/database handling
+
+---
+
+## 📦 Inventory Management System
+
+A Python application for managing inventory records.
+
+**Concepts:**
+
+- Python
+- CRUD operations
+- Data management
+- File handling
+
+---
+
+# 🧠 Python Learning Projects
+
+This repository also contains smaller projects that helped me build
+my programming fundamentals.
+
+Examples include:
+
+- Calculator
+- Advanced Calculator
+- Grade Calculator
+- Guess the Number Game
+- Notes App
+- File-Based To-Do App
+- Password Generator
+- Input Validation
+- Other Python practice projects
+
+These projects represent the progression from basic Python programming
+toward larger applications.
+
+---
+
+# 🛠️ Technologies & Skills
+
+### Programming
+
+- Python
+- SQL
+
+### Web Development
+
+- Flask
+- HTML5
+- CSS3
+- JavaScript
+
+### Database
+
+- SQLite
+
+### Development Tools
+
+- Git
+- GitHub
+- Git Bash
+
+### Python Concepts
+
+- Variables
+- Conditions
+- Loops
+- Functions
+- Lists
+- Dictionaries
+- File Handling
+- Exception Handling
+- OOP
+- CRUD Operations
+- SQL
+
+---
+
+# 📈 My Development Journey
+
+My learning progression has been:
+
+```text
+Python Fundamentals
+        ↓
+Functions & Data Structures
+        ↓
+File Handling
+        ↓
+Object-Oriented Programming
+        ↓
+SQLite & SQL
+        ↓
+Flask
+        ↓
+HTML + CSS + JavaScript
+        ↓
+Full-Stack Project
+        ↓
+Git & GitHub
+        ↓
+Portfolio Development
